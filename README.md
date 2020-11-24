@@ -8,3 +8,4 @@ NO autocomplete
 NO separating the line into multiple lines, but word wrapping is tolerated
 NO modules other than native node ones ( ie. fs, path, http ) and discord.js
 1 single file, 1 single line.
+Forgot to mention - no js fuck.
